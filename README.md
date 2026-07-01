@@ -1,4 +1,4 @@
-# helth_data_analysis
+# health_data_analysis
 ## Overview
 A machine learning model that predicts cardiovascular disease based on health indicators.
 
